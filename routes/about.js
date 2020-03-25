@@ -1,6 +1,3 @@
-//./
-//../about
-//../about/me
 const express = require('express');
 
 
